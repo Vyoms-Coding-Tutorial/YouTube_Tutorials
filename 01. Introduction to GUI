@@ -1,0 +1,8 @@
+from tkinter import *
+
+window = Tk()
+window.title("GUI Creation")
+window.geometry("500x500")
+window.config(bg = "red")
+
+window.mainloop()
